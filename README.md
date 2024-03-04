@@ -15,4 +15,4 @@ Services:
 - Citadel: Groupware server like microsoft exchange except a little jank but its pretty alright once you get used to it
 - LibreNMS: God tier Network monitoring server. a bit more step intensive to set up but its pretty cool
 - Nautobot(coming eventually): Network automation server that by itself is ok but with their useful apps and plugins becomes pretty fricken neato
-- Jitsi: A fairly simplistic voice and video conferencing server.
+- Jitsi(incomplete cause i lost data but ill get to it eventually): A fairly simplistic voice and video conferencing server.
